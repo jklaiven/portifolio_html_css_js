@@ -22,15 +22,15 @@ Você pode acessar o meu portfólio online aqui:
 
 ### 1. To-Do List  
 Uma lista de tarefas interativa, construída com HTML, CSS e JavaScript.  
-Link para o código e detalhes no site. :[contentReference[oaicite:1]{index=1}](https://github.com/jklaiven/To-do-List)
+Link para o código e detalhes no site. : (https://github.com/jklaiven/To-do-List)
 
 ### 2. Rede Social 
 Protótipo de rede social estática, utilizando PHP, JavaScript, HTML e CSS.  
-Essencialmente um projeto de front-end com uma pitada de back-end. :[contentReference[oaicite:2]{index=2}](https://github.com/jklaiven/Rede-Social)
+Essencialmente um projeto de front-end com uma pitada de back-end. : (https://github.com/jklaiven/Rede-Social)
 
 ### 3. Calculadora  
 Calculadora web simples e responsiva, feita com HTML, CSS e JavaScript.  
-Ótima para demonstrar lógica e manipulação DOM. :[contentReference[oaicite:3]{index=3}](https://github.com/jklaiven/calculadora_responsiva)
+Ótima para demonstrar lógica e manipulação DOM. : (https://github.com/jklaiven/calculadora_responsiva)
 
 ---
 
