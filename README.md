@@ -15,7 +15,6 @@ Sou um apaixonado por tecnologia e Desenvolvimento Web, com foco na criação de
 
 Você pode acessar o meu portfólio online aqui:  
 [🡕 Visualizar site ao vivo](https://jklaiven.github.io/portifolio_html_css_js/)  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -23,17 +22,15 @@ Você pode acessar o meu portfólio online aqui:
 
 ### 1. To-Do List  
 Uma lista de tarefas interativa, construída com HTML, CSS e JavaScript.  
-Link para o código e detalhes no site. :contentReference[oaicite:1]{index=1}
+Link para o código e detalhes no site. :[contentReference[oaicite:1]{index=1}](https://github.com/jklaiven/To-do-List)
 
-### 2. Sistema de Reservas  
+### 2. Rede Social 
 Protótipo de rede social estática, utilizando PHP, JavaScript, HTML e CSS.  
-Essencialmente um projeto de front-end com uma pitada de back-end. :contentReference[oaicite:2]{index=2}
+Essencialmente um projeto de front-end com uma pitada de back-end. :[contentReference[oaicite:2]{index=2}](https://github.com/jklaiven/Rede-Social)
 
 ### 3. Calculadora  
 Calculadora web simples e responsiva, feita com HTML, CSS e JavaScript.  
-Ótima para demonstrar lógica e manipulação DOM. :contentReference[oaicite:3]{index=3}
-
-*(Você pode incluir imagens, screenshots ou GIFs de cada projeto aqui para destacar visualmente — especialmente útil se forem demos interativas.)*
+Ótima para demonstrar lógica e manipulação DOM. :[contentReference[oaicite:3]{index=3}](https://github.com/jklaiven/calculadora_responsiva)
 
 ---
 
@@ -42,7 +39,6 @@ Calculadora web simples e responsiva, feita com HTML, CSS e JavaScript.
 - **HTML5** – estrutura semântica das páginas  
 - **CSS3** – estilização, responsividade (com possíveis menções a grids, flexbox, media queries)  
 - **JavaScript** – interatividade e manipulação de elementos  
-- (Opcional) **PHP** – usado no projeto “Sistema de Reservas” :contentReference[oaicite:4]{index=4}
 
 ---
 
