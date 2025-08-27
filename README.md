@@ -49,10 +49,13 @@ Calculadora web simples e responsiva, feita com HTML, CSS e JavaScript.
    git clone https://github.com/jklaiven/portifolio_html_css_js.git
 2. Abra o arquivo index.html no seu navegador favorito para visualizar o site localmente.
 
-Contato
+## 👨‍💻 Autor
+- João Klaiven  
+- [LinkedIn](https://www.linkedin.com/in/joao-klaiven)  
+- [GitHub](https://github.com/jklaiven)
 
-GitHub
+📜 Licença
 
-LinkedIn: https://www.linkedin.com/in/jklaiven
+Este projeto está sob a licença MIT.
 
-E-mail: jklaiven.s@gmail.com
+
