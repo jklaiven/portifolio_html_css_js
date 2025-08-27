@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfólio de João Klaiven — Desenvolvedor Front-End. Projetos em HTML, CSS, JavaScript e mais.">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Portfólio - João Klaiven">
+  <meta property="og:description" content="Desenvolvedor Front-End. Projetos e contato.">
+  <meta property="og:image" content="Assets/preview.png">
+  <meta property="og:type" content="website">
+
+  <!-- Performance: preconnect para Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="style.css">
+  <!-- Fonte Google -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Importando os ícones do Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">  
+
+
+  <title>Portfólio - João Klaiven</title>
+
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>João Klaiven</h1>
+    <p>Desenvolvedor Front-End | Estudante de ADS</p>
+    <nav>
+      <ul>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#projetos">Projetos</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- About -->
+  <section id="sobre" class="container sobre">
+    <h2>Sobre mim</h2>
+    <div class="sobre-conteudo">
+      <div class="sobre-texto">
+        <p>Sou um apaixonado por tecnologia e Desenvolvimento web.
+          Gosto de criar aplicações simples e funcionais usando HTML, CSS e JavaScript. 
+        </p>
+        <span>Confira os meus projetos</span>
+        <a href="#projetos" class="btn-projetos">Ir aos projetos <i class="fa-solid fa-chevron-right"></i></a>
+      </div>
+      <img src="./Assets/img-about.png" alt="Garoto programando no computador">
+    </div>
+  </section>
+
+  <section id="projetos" class="container projetos">
+    <h2>Projetos</h2>
+    <div class="grid">
+      <div class="card">
+        <img src="Assets/projeto_to_do-list.png" alt="To-Do list" loading="lazy" width="600" height="360">
+        <h3>To-Do List</h3>
+        <p>Uma lista de tarefas interativa feita com HTML, CSS e JS.</p>
+        <a href="https://github.com/jklaiven/To-do-List" target="_blank" rel="noopener noreferrer">
+          <i class="fa-brands fa-github"></i> Ver código
+        </a>
+      </div>
+      
+      <div class="card">
+        <img src="./Assets/projeto_rede_social.png" alt="Sistema de Reservas">
+        <h3>Sistema de Reservas</h3>
+        <p>Protótipo de rede social estática com JavaScript, PHP, HTML e CSS.</p>
+        <a href="https://github.com/jklaiven/Rede-Social" target="_blank"><i class="fa-brands fa-github"></i> Ver código</a>
+      </div>
+      
+      <div class="card">
+        <img src="./Assets/projeto_calculadora.png" alt="Calculadora">
+        <h3>Calculadora</h3>
+        <p>Calculadora web simples e responsiva em HTML, CSS e JavaScript.</p>
+        <a href="https://github.com/jklaiven/calculadora_responsiva" target="_blank"><i class="fa-brands fa-github"></i> Ver código</a>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Contact -->
+  <section id="contato" class="container contato">
+    <h2>Contato</h2>
+    <div class="social-links">
+      <a href="https://github.com/jklaiven" target="_blank" class="icon-btn github">
+        <i class="fab fa-github"></i>
+        <span>GitHub</span>
+      </a>
+
+      <a href="https://www.linkedin.com/in/jklaiven" target="_blank" class="icon-btn linkedin">
+        <i class="fab fa-linkedin"></i>
+        <span>LinkedIn</span>
+      </a>
+
+      <a href="mailto:seuemail@gmail.com" class="icon-btn email">
+        <i class="fas fa-envelope"></i>
+        <span>Email</span>
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 João Klaiven - Todos os direitos reservados</p>
+  </footer>
+
+  
+  <script src="./script.js"></script>
+</body>
+</html>
